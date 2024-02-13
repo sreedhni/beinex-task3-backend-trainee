@@ -23,7 +23,6 @@ month = month(date_input)
 date = date(date_input)
 time = time(date_input)
 
-# Print the extracted components
 print("Year:", year)
 print("Month:", month)
 print("Date:", date)
